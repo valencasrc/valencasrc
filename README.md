@@ -20,7 +20,7 @@
 
  🎓 Estou cursando Análise e Desenvolvimento de Sistemas. <br>
  🎓 Trabalho como Freelancer. <br>
- 📫 Contacte-me no email: valencalucas1@hotmail.com <br>
+ 📫 Entre em contato no email: valencalucas1@hotmail.com <br>
 
     
 <br>  
