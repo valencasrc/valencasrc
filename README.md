@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-<h2>⚜ My Skills ⚜</h2>
+<h2>⚜ Minhas Ferramentas ⚜</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,react,spring,)](#)<br>
 
