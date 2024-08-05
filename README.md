@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=FFFAFA&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Olá,+meu+nome+é+Lucas+Valença!;Tenho+29+anos;Sou+de+Recife,+Pernambuco;Sou+Desenvolvedor+Fullstack)](https://git.io/typing-svg)
 
-<div align="center">
+<div align="">
 <h2>📈 Estatísticas do Github: 📉</h2>
   <a href="https://github.com/valencasrc">
     
@@ -24,15 +24,15 @@
 
     
 <br>  
-<div>
-<a href="https://www.instagram.com/valencasrc/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:valencalucas1@hotmail.com">
-    <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/valencalcs/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
+***🌐Contatos***
+
+  
+<p>
+        <a href="https://www.instagram.com/valencalcs/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="60" height="60"></a>
+        <a href="https://www.linkedin.com/in/valencalcs/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="60" height="60"></a>
+        <a href="mailto:valencalucas1@hotmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" width="60" height="60"></a>
+      </p>
+      
+<br> 
+
 
