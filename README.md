@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=FFFAFA&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Olá,+meu+nome+é+Lucas+Valença!;Tenho+29+anos;Sou+de+Recife,+Pernambuco;Sou+Desenvolvedor+Fullstack)](https://git.io/typing-svg)
 
-<div align="">
+<div align="center">
 <h2>📈 Estatísticas do Github: 📉</h2>
   <a href="https://github.com/valencasrc">
     
