@@ -19,7 +19,7 @@
 
 
  🎓 Estou cursando Análise e Desenvolvimento de Sistemas. <br>
- 🎓 Trabalho como Desenvolvedor Fullstack. <br>
+ 🎓 Trabalho como Desenvolvedor Fullstack no Clube de Compra. <br>
  📫 Entre em contato no email: valencalucas1@hotmail.com <br>
 
     
